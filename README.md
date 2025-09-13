@@ -2,6 +2,10 @@
 
 A sophisticated multi-agent system that generates comprehensive AI/ML use cases for companies and industries, featuring both a command-line interface and a modern Streamlit web UI.
 
+## Streamlit UI
+<img width="1745" height="843" alt="image" src="https://github.com/user-attachments/assets/130af96e-fda7-4779-9684-9812ff8c344d" />
+
+
 ## 🎯 Overview
 
 This project provides an intelligent market research solution that:
