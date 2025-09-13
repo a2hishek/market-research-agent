@@ -162,7 +162,6 @@ MarketResearchAgent/
 ├── requirements.txt        # Python dependencies
 ├── config_example.env      # Environment template
 ├── README.md               # This file
-└── README_Streamlit.md     # UI-specific documentation
 ```
 
 ## 🛠️ Development
@@ -201,18 +200,6 @@ streamlit run streamlit_app.py
 - **Resource Efficiency**: Optimized API usage and caching
 - **Scalability**: Configurable limits and resource management
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **LangChain**: Multi-agent framework
@@ -220,29 +207,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Google Gemini**: AI language models
 - **Tavily**: Web search API
 - **Rich**: Beautiful terminal output
-
-## 📞 Support
-
-For questions, issues, or contributions:
-- Open an issue on GitHub
-- Check the documentation in `README_Streamlit.md`
-- Review the example configurations
-
-## 🔄 Updates
-
-### Recent Changes
-- ✅ Added Streamlit web UI
-- ✅ Implemented clickable resource links
-- ✅ Enhanced report formatting
-- ✅ Added download functionality
-- ✅ Improved error handling
-
-### Roadmap
-- 🔄 Add more data sources (arXiv, Google Scholar)
-- 🔄 Implement report templates
-- 🔄 Add user authentication
-- 🔄 Create API endpoints
-- 🔄 Add batch processing capabilities
 
 ---
 
