@@ -2,6 +2,9 @@
 
 A sophisticated multi-agent system that generates comprehensive AI/ML use cases for companies and industries, featuring both a command-line interface and a modern Streamlit web UI.
 
+## Sample Outputs
+https://docs.google.com/document/d/1oPlNohDUK-RL-OhGVDfDl0vFKUT7DVJbFCusgpbtC0U/edit?usp=sharing
+
 ## Streamlit UI
 <img width="1745" height="843" alt="image" src="https://github.com/user-attachments/assets/130af96e-fda7-4779-9684-9812ff8c344d" />
 
